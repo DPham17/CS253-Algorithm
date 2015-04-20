@@ -1,0 +1,2007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>LineString.kml</name>
+  <open>1</open>
+  <Placemark>
+    <name>Andrews to Salisbury</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -76.0833,38.0833,0  -75.5,38.3333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Alexander_City to Anniston</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -85.95,32.95,0  -85.85,33.5833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Anniston to Gadsden</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -85.85,33.5833,0  -86,34.0167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Auburn to Alexander_City</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -85.5,32.6,0  -85.95,32.95,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Birmingham to Gadsden</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -86.75,33.5667,0  -86,34.0167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Decatur to Murfreesboro</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -86.9833,34.6167,0  -86.4667,34.9167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Dothan to Alexander_City</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -85.45,31.3167,0  -85.95,32.95,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Florence to Decatur</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -87.6667,34.8,0  -86.9833,34.6167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Gadsden to Huntsville</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -86,34.0167,0  -86.5833,34.7,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Huntsville to Murfreesboro</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -86.5833,34.7,0  -86.4667,34.9167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Mobile to Biloxi--Keesler</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -88.25,30.6833,0  -88.9167,30.4167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Mobile to Biloxi--Keesler</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -88.25,30.6667,0  -88.9167,30.4167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Montgomery to Alexander_City</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -86.3667,32.3833,0  -85.95,32.95,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Selma-Craig to Tuscaloosa</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -87.9833,32.3333,0  -87.6167,33.2167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Talladega to Gadsden</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -86.1,33.45,0  -86,34.0167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Tuscaloosa to Birmingham</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -87.6167,33.2167,0  -86.75,33.5667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Douglas to Silver_City</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -109.6,31.45,0  -108.167,32.6333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Flagstaff to Phoenix</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -111.667,35.1333,0  -112.017,33.4333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Fort_Huachuca to Douglas</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -110.333,31.5833,0  -109.6,31.45,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Kingman to Prescott</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -114.017,35.2,0  -112.433,34.65,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Nogales to Fort_Huachuca</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -110.917,31.35,0  -110.333,31.5833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Phoenix to Tucson</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -112.017,33.4333,0  -110.933,32.1167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prescott to Flagstaff</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -112.433,34.65,0  -111.667,35.1333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Tucson to Fort_Huachuca</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -110.933,32.1167,0  -110.333,31.5833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Winslow to Flagstaff</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -110.733,35.0167,0  -111.667,35.1333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Yuma to Blythe</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -114.617,32.65,0  -114.717,33.6167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Blytheville to Poplar_Bluff</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -89.95,35.95,0  -90.4167,36.7667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Camden to El_Dorado</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -92.8167,33.6,0  -92.8167,33.2167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>El_Dorado to Minden</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -92.8167,33.2167,0  -93.3,32.6,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Fayetteville to Hot_Springs</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -94.1667,36,0  -93.1,34.4833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Fort_Smith to Fayetteville</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -94.3667,35.3333,0  -94.1667,36,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Hot_Springs to Camden</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -93.1,34.4833,0  -92.8167,33.6,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Jonesboro to Poplar_Bluff</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -90.7,35.8333,0  -90.4167,36.7667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Little_Rock to Hot_Springs</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -92.2333,34.7333,0  -93.1,34.4833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Pine_Bluff to Little_Rock</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -92.0833,34.3,0  -92.2333,34.7333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Texarkana to Shreveport</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -93.9833,33.45,0  -93.8167,32.4667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Bakersfield to Burbank</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -119.05,35.4167,0  -118.35,34.2,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Barstow to Redlands</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -116.783,34.85,0  -117.183,34.05,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Blythe to Needles</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -114.717,33.6167,0  -114.617,34.6,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Burbank to Laguna_Beach</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -118.35,34.2,0  -117.783,33.55,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Chico to Yuba_City</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -121.85,39.8,0  -121.6,39.1333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Concord to Livermore</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -121.983,37.9667,0  -121.95,37.7,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Covina to Laguna_Beach</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -117.867,34.0833,0  -117.783,33.55,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Crescent_City to Eureka/Arcata</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -124.2,41.7667,0  -124.1,40.9833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Downey to Laguna_Beach</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -118.133,33.9333,0  -117.783,33.55,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>El_Cajon to El_Cerrito</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -116.967,32.8167,0  -115.667,32.8167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>El_Cerrito to Blythe</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -115.667,32.8167,0  -114.717,33.6167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Escondido to El_Cajon</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -117.083,33.1167,0  -116.967,32.8167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Eureka/Arcata to Redding</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -124.1,40.9833,0  -122.3,40.5167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Fairfield-Trafis to Livermore</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -121.933,38.2667,0  -121.95,37.7,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Fresno to Visalia</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -119.717,36.7667,0  -119.3,36.3333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Hamilton to Livermore</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -122.5,38.0667,0  -121.95,37.7,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Laguna_Beach to Escondido</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -117.783,33.55,0  -117.083,33.1167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Livermore to Modesto</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -121.95,37.7,0  -121,37.65,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Lompoc,_Vandenberg to Santa_Barbara</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -120.567,34.7167,0  -119.833,34.4333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Long_Beach to Laguna_Beach</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -118.15,33.8167,0  -117.783,33.55,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Los_Angeles to Laguna_Beach</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -118.4,33.9333,0  -117.783,33.55,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Los_Angeles to Laguna_Beach</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -118.233,34.05,0  -117.783,33.55,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Merced-Castle to Visalia</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -120.567,37.3833,0  -119.3,36.3333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Modesto to Merced-Castle</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -121,37.65,0  -120.567,37.3833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Monterey to San_Jose</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -121.9,36.6,0  -121.933,37.3667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Napa to Livermore</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -122.283,38.2167,0  -121.95,37.7,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Needles to Kingman</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -114.617,34.6,0  -114.017,35.2,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Oakland to Livermore</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -122.317,37.8167,0  -121.95,37.7,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Oceanside to El_Cajon</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -117.417,33.2333,0  -116.967,32.8167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Ontario to Laguna_Beach</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -117.6,34.05,0  -117.783,33.55,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Oxnard to Burbank</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -119.183,34.2,0  -118.35,34.2,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Palmdale to Burbank</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -118.1,34.6333,0  -118.35,34.2,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Palm_Springs to Escondido</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -116.533,33.8167,0  -117.083,33.1167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Pasadena to Laguna_Beach</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -118.15,34.15,0  -117.783,33.55,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Petaluma to Livermore</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -122.633,38.2333,0  -121.95,37.7,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Pomona to Laguna_Beach</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -117.75,34.05,0  -117.783,33.55,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Redding to Chico</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -122.3,40.5167,0  -121.85,39.8,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Redlands to Escondido</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -117.183,34.05,0  -117.083,33.1167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Richmond to Livermore</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -122.35,37.9333,0  -121.95,37.7,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Riverside-March to Escondido</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -117.25,33.9,0  -117.083,33.1167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Sacramento to Livermore</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -121.5,38.5167,0  -121.95,37.7,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Salinas to San_Jose</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -121.6,36.6667,0  -121.933,37.3667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>San_Bernadino to Laguna_Beach</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -117.267,34.1333,0  -117.783,33.55,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>San_Diego to El_Cajon</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -117.167,32.7333,0  -116.967,32.8167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>San_Fernando to Burbank</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -118.467,34.2833,0  -118.35,34.2,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>San_Francisco to Livermore</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -122.383,37.6167,0  -121.95,37.7,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>San_Francisco to Livermore</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -122.433,37.7667,0  -121.95,37.7,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>San_Jose to Modesto</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -121.933,37.3667,0  -121,37.65,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>San_Louis_Obispo to Lompoc,_Vandenberg</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -120.717,35.3333,0  -120.567,34.7167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Santa_Ana to Laguna_Beach</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -117.867,33.75,0  -117.783,33.55,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Santa_Barbara to Oxnard</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -119.833,34.4333,0  -119.183,34.2,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Santa_Cruz to Livermore</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -122.017,36.9833,0  -121.95,37.7,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Santa_Maria to Santa_Barbara</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -120.45,34.9,0  -119.833,34.4333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Santa_Monica to Laguna_Beach</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -118.483,34.0167,0  -117.783,33.55,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Santa_Paula to Burbank</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -119.083,34.35,0  -118.35,34.2,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Santa_Rosa to Concord</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -122.817,38.5167,0  -121.983,37.9667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Stockton to Merced-Castle</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -121.25,37.9,0  -120.567,37.3833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Ukiah to Santa_Rosa</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -123.2,39.15,0  -122.817,38.5167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Visalia to Bakersfield</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -119.3,36.3333,0  -119.05,35.4167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Yreka to Redding</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -122.633,41.7167,0  -122.3,40.5167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Yuba_City to Fairfield-Trafis</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -121.6,39.1333,0  -121.933,38.2667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Alamosa to Colorado_Springs</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -105.867,37.45,0  -104.717,38.8167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Boulder to Denver</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -105.267,40,0  -104.867,39.75,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Colorado_Springs to Denver</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -104.717,38.8167,0  -104.867,39.75,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Denver to Sterling</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -104.867,39.75,0  -103.2,40.6167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Durango to Gallup</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -107.883,37.2833,0  -108.783,35.5167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Fort_Collins to Boulder</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -105.083,40.75,0  -105.267,40,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Grand_Junction to Durango</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -108.533,39.1167,0  -107.883,37.2833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Greeley to Denver</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -104.633,40.4333,0  -104.867,39.75,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Lajunta to Colorado_Springs</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -103.5,38.05,0  -104.717,38.8167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Leadville to Denver</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -106.3,39.25,0  -104.867,39.75,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Pueblo to Colorado_Springs</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -104.483,38.3,0  -104.717,38.8167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Sterling to Goodland</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -103.2,40.6167,0  -101.7,39.3667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Trinidad to Colorado_Springs</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -104.333,37.25,0  -104.717,38.8167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Bridgeport to New_Haven</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -73.1833,41.1833,0  -73.9167,41.3167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Hartford,Brainard_Field to Bridgeport</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -72.65,41.7333,0  -73.1833,41.1833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>New_Haven to Newark</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -73.9167,41.3167,0  -74.1667,40.7,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>New_London to Hartford,Brainard_Field</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -72.1,41.35,0  -72.65,41.7333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Norwalk to Newark</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -73.4167,41.1167,0  -74.1667,40.7,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Norwick to Hartford,Brainard_Field</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -72.0667,41.5333,0  -72.65,41.7333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Waterbury to New_Haven</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -73.0667,41.5833,0  -73.9167,41.3167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Widsor_Locks,Bradley to Bridgeport</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -72.6833,41.9333,0  -73.1833,41.1833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Dover to Baltimore</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -75.4667,39.1333,0  -76.4167,39.3333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Wilmington to Baltimore</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -75.6,39.6667,0  -76.4167,39.3333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Belle_Glade to Cape_Kennedy</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -80.65,26.65,0  -80.5667,28.4833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Cape_Kennedy to Orlando</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -80.5667,28.4833,0  -81.3833,28.55,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Daytona_Beach to Orlando</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -81.05,29.1833,0  -81.3833,28.55,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Fort_Lauderdale to Belle_Glade</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -80.15,26.0667,0  -80.65,26.65,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Fort_Myers to Lakeland</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -81.8667,26.5833,0  -81.95,28.0333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Fort_Pierce to Belle_Glade</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -80.35,27.4667,0  -80.65,26.65,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Gainsville to Jacksonville</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -82.2667,29.6833,0  -81.7,30.5,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Jacksonville to Brunswick</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -81.7,30.5,0  -81.4833,31.25,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Key_West to Miami</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -81.75,24.55,0  -80.2667,25.8,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Lakeland to Orlando</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -81.95,28.0333,0  -81.3833,28.55,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Miami to Belle_Glade</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -80.2667,25.8,0  -80.65,26.65,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Miami_Beach to Belle_Glade</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -80.2833,25.7833,0  -80.65,26.65,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Ocala to Gainsville</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -82.1333,29.1833,0  -82.2667,29.6833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Orlando to Ocala</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -81.3833,28.55,0  -82.1333,29.1833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Panama_City,_Tyndall to Dothan</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -85.5833,30.0667,0  -85.45,31.3167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Pensacola to Biloxi--Keesler</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -87.2167,30.4167,0  -88.9167,30.4167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>St.Augustine to Jacksonville</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -81.3333,29.9667,0  -81.7,30.5,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>St.Petersburg to Sarasota</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -83.3333,27.7667,0  -82.55,27.3833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Stanford to Ocala</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -81.2833,28.7667,0  -82.1333,29.1833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Sarasota to Lakeland</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -82.55,27.3833,0  -81.95,28.0333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Tallahassee to Americus</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -84.3667,30.3833,0  -84.2333,32.05,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Tampa to Lakeland</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -82.5333,27.9667,0  -81.95,28.0333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>West_Palm_Beach to Belle_Glade</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -80.1,26.6833,0  -80.65,26.65,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Albany,Turner to Americus</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -84.0833,31.6,0  -84.2333,32.05,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Americus to Columbus,Lawson</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -84.2333,32.05,0  -84.9333,32.5167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Athens to Gainsville</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -83.3167,33.95,0  -83.6833,34.1833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Atlanta to Griffin</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -84.4333,33.65,0  -84.2667,33.2167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Augusta to Greenwood</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -81.9667,33.3667,0  -82.1167,34.1667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Brunswick to Dublin</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -81.4833,31.25,0  -82.9,32.3333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Columbus,Lawson to Auburn</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -84.9333,32.5167,0  -85.5,32.6,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Dalton to Marietta,Dobbins</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -84.95,34.5667,0  -84.5167,33.9167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Dublin to Macon</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -82.9,32.3333,0  -83.65,32.7,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Gainsville to Atlanta</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -83.6833,34.1833,0  -84.4333,33.65,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Griffin to Columbus,Lawson</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -84.2667,33.2167,0  -84.9333,32.5167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>LaGrange to Anniston</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -85.0667,33.0167,0  -85.85,33.5833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Macon to Americus</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -83.65,32.7,0  -84.2333,32.05,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Marietta,Dobbins to Griffin</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -84.5167,33.9167,0  -84.2667,33.2167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Savannah to Brunswick</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -81.2,32.1333,0  -81.4833,31.25,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Valdosta-Moody to Waycross</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -83.2,30.9667,0  -82.4,31.25,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Waycross to Brunswick</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -82.4,31.25,0  -81.4833,31.25,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Boise to Mountain_Home</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -116.217,43.5667,0  -115.9,43.0333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Burley to Idaho_Falls</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -113.767,42.5333,0  -112.067,43.5167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Coeur_DAlene to Lewiston</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -116.817,47.7667,0  -117.017,46.3833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Idaho_Falls to Logan</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -112.067,43.5167,0  -111.817,41.75,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Lewiston to Pendleton</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -117.017,46.3833,0  -118.85,45.6833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Moscow to Lewiston</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -116.967,46.7333,0  -117.017,46.3833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Mountain_Home to Twin_Falls</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -115.9,43.0333,0  -114.483,42.4833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Pocatello to Idaho_Falls</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -112.6,42.9167,0  -112.067,43.5167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Twin_Falls to Burley</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -114.483,42.4833,0  -113.767,42.5333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Aurora to Kankakee</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -88.3333,41.75,0  -87.9167,41.0833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Belleville,Scott to Greenville</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -89.85,38.55,0  -89.4,38.8833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Bloomington to Champaign/Urbana</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -88.95,40.4833,0  -88.2833,40.0333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Carbondale to Belleville,Scott</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -89.25,37.7833,0  -89.85,38.55,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Champaign/Urbana to Danville</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -88.2833,40.0333,0  -87.6,40.2,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Chicago,Midway to Kankakee</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -87.75,41.7833,0  -87.9167,41.0833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Chicago,OHare to Kankakee</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -87.9,41.9833,0  -87.9167,41.0833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Chicago to Kankakee</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -87.6333,41.8833,0  -87.9167,41.0833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Danville to Crawfordsville</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -87.6,40.2,0  -86.9,40.05,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Decatur to Champaign/Urbana</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -88.8667,39.8333,0  -88.2833,40.0333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Dixon to La_Salle/Peru</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -89.4833,41.8333,0  -89.1,41.3167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Elgin to Aurora</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -88.2667,42.0333,0  -88.3333,41.75,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Freeport to Dixon</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -89.6167,42.3,0  -89.4833,41.8333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Galesburg to Peoria</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -90.4333,40.9333,0  -89.6833,40.6667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Greenville to Springfield</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -89.4,38.8833,0  -89.6667,39.8333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Joliet to Kankakee</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -88.1667,41.5167,0  -87.9167,41.0833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Kankakee to Danville</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -87.9167,41.0833,0  -87.6,40.2,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>La_Salle/Peru to Bloomington</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -89.1,41.3167,0  -88.95,40.4833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Macomb to Galesburg</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -90.6667,40.4667,0  -90.4333,40.9333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Moline to Galesburg</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -90.5167,41.45,0  -90.4333,40.9333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Mt_Vernon to Greenville</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -88.8667,38.3167,0  -89.4,38.8833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Peoria to Bloomington</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -89.6833,40.6667,0  -88.95,40.4833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Quincy to Macomb</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -91.2,39.95,0  -90.6667,40.4667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Rantoul,Chanute to Danville</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -88.1333,40.3,0  -87.6,40.2,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Rockford to Aurora</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -89.05,42.35,0  -88.3333,41.75,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Springfield to Bloomington</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -89.6667,39.8333,0  -88.95,40.4833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Waukegan to Aurora</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -87.8833,42.35,0  -88.3333,41.75,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Anderson to Fort_Wayne</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -85.6167,40.1,0  -85.2,41,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Bedford to Columbus,Bakalar</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -86.5,38.85,0  -85.9,39.2667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Bloomington to Columbus,Bakalar</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -86.6167,39.1333,0  -85.9,39.2667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Columbus,Bakalar to Anderson</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -85.9,39.2667,0  -85.6167,40.1,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+</Document>
+</kml>

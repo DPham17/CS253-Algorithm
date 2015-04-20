@@ -1,0 +1,162 @@
+//Dzu Pham
+//InsertionSort.cpp
+//=============++FIX++====================
+//		add pre post and invariants
+
+#include <iostream>
+#include <cstdlib>
+#include <time.h>
+#include <ctime>
+using namespace std;
+
+int generateNum(int num);
+
+int downNum(int num);
+
+void insert(int p[], int num);
+
+void merge(int A[], int p, int q, int r);
+
+void HeapSort(int A[]);
+
+void MaxHeapify(int A[], int i)
+
+void output(int p[], int num); //outputs the array
+
+//====================================================
+
+int main()
+{
+  int num = 110000; //Can change the size of array for larger check
+  //1 million is the largest we can go...
+  int p[num];
+  int bigBaby [num]; 
+	
+  for(int i=0; i<num; i++) //sets the array with numbers
+  {
+    p[i] = generateNum(100+i); //Random
+    //p[i] = i;  		     //Sorted
+    //p[i] = downNum(num);     //Backwards
+  }
+  //output(p,num);
+  cout << endl;
+  insert(p, num);
+
+  return 0;
+}
+
+//=====================================================
+
+int generateNum(int num) //makes a random number
+{
+  int secret;
+  
+  srand(time(NULL));
+
+  secret = rand() % num +1;
+
+  return secret;
+}
+
+int downNum(int num) //backwards
+{
+	static int check=num;
+	return check--;
+}
+
+void insert (int p[], int num)
+{
+  int STime, ETime, TTime;
+  int key=0, j=0;
+  
+  STime = time(0); //Start the time
+  for(int i=1; i<num; i++)
+  {
+    key = p[i];
+    j = i - 1;
+    while ((j>=0) && (p[j]>key))
+  {
+    p[j+1] = p[j];
+    j--;
+  }
+    p[j+1] = key;
+  }
+  ETime = time(0);
+
+  TTime = ETime - STime;
+  //output(p, num);
+  cout << "Start Time " << STime << ", End Time " << ETime << endl;
+  cout << "Run Time " << TTime << " seconds." << endl;
+  return;
+}
+
+void merge(int A[], int p, int q, int r)
+{
+  int n1, n2, x, z;
+  n1 = q-p+1;
+  n2 = r-q;
+  int new L[n1];  //how to make new array, and delete at the end.
+  int new R[n2];
+  for (int i=1; i<n1; i++)
+  {
+    L[i] = A[p+i-1];
+  }
+  for (int j=1; j<n2; j++)
+  {
+    R[j] = A[q+j]
+  }
+  L[n1+1] = //infinty
+  R[n2+1] = //infinty
+  x = 1;
+  z = 1;
+  for (int k=p; k<r; k++)
+  {
+    if L[x] <= R[z]
+    {
+      A[k] = L[x];
+      x++;
+    }
+    else
+    {
+      A[k] = R[z];
+      z++;
+    }
+  }
+}
+
+void HeapSort(int A[])
+{
+  //heapsize = lenght;
+  //buildMaxHeap(A)
+  for (int i = lenght; i>2; i--)
+  {
+    //exchange A[i] with A[heapsize]
+    heapsize--;
+    MaxHeapify(A, i)
+  }
+}
+
+void MaxHeapify(int A[], int i)
+{
+  int l, r, largest;
+  l = Left(i) //find out what this means
+  r = right(i)
+  if (l <= /*heap size*/ && A[l] > A[/*largest*/]
+    largest = r;
+  if (largest != i)
+  {
+    //exchange A[i] with A[largest]
+    MaxHeapfiy(A[], largest);
+  }
+}
+
+void output(int p[], int num)
+{
+  for(int k=0; k<num; k++) //lets you see the array before it is sorted
+  {
+    cout << p[k] << " ";
+  }
+  cout << endl;
+}
+
+

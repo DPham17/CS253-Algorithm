@@ -1,0 +1,21 @@
+DISTRICT_OF_COLUMBIA	2	
+Washington_D.C. 	38	51 N	 77	 2 W
+Andrews 		38	5 N	 76	 5 W
+WEST_VIRGINIA		4
+Beckley			37	47 N	 81	 7 W
+Morgantown 		39	39 N	 79	 55 W
+Parkersburg 		39	16 N	 81	 34 W
+Wheeling		40	7 N	 80	 42 W
+VIRGINIA		5				
+Charlottesville		38	2 N	78	 31 W
+Danville 		36	34 N	79	 20 W
+Fredericksburg		38	18 N	77	 28 W
+Harrisonburg		38	27 N	78	 54 W
+Lynchburg 		37	20 N	79	 12 W
+NORTH_CAROLINA		5				
+Asheville 		35	26 N	82	 32 W
+Charlotte 		35	13 N	80	 56 W
+Durham			35	52 N	78	 47 W
+Elizabeth_City 		36	16 N	76	 11 W
+Fayettevilly		35	10 N	79	 1 W
+			

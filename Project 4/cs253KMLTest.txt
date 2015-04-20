@@ -1,0 +1,150 @@
+  <Placemark>
+    <name>Andrews to Washington_D.C.</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -76.0833,38.0833,0  -77.0333,38.85,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Beckley to Lynchburg</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -81.1167,37.7833,0  -79.2,37.3333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Morgantown to Harrisonburg</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -79.9167,39.65,0  -78.9,38.45,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Parkersburg to Beckley</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -81.5667,39.2667,0  -81.1167,37.7833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Wheeling to Morgantown</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -80.7,40.1167,0  -79.9167,39.65,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Charlottesville to Washington_D.C.</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -78.5167,38.0333,0  -77.0333,38.85,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Danville to Lynchburg</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -79.3333,36.5667,0  -79.2,37.3333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Fredericksburg to Washington_D.C.</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -77.4667,38.3,0  -77.0333,38.85,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Harrisonburg to Charlottesville</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -78.9,38.45,0  -78.5167,38.0333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Lynchburg to Charlottesville</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -79.2,37.3333,0  -78.5167,38.0333,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Asheville to Charlotte</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -82.5333,35.4333,0  -80.9333,35.2167,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Charlotte to Fayettevilly</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -80.9333,35.2167,0  -79.0167,35.1667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Durham to Danville</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -78.7833,35.8667,0  -79.3333,36.5667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Elizabeth_City to Andrews</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -76.1833,36.2667,0  -76.0833,38.0833,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Fayettevilly to Durham</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+       -79.0167,35.1667,0  -78.7833,35.8667,0
+      </coordinates>
+    </LineString>
+  </Placemark>
